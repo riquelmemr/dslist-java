@@ -1,4 +1,4 @@
-package com.appgame.dslist.controllers;
+package com.appgame.dslist.controller;
 
 import com.appgame.dslist.dto.GameDTO;
 import com.appgame.dslist.dto.GameMinDTO;
