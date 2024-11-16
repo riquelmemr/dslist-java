@@ -1,4 +1,4 @@
-package com.appgame.dslist.exceptions;
+package com.appgame.dslist.exception;
 
 import org.springframework.http.HttpStatus;
 

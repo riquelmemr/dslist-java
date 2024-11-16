@@ -1,4 +1,4 @@
-package com.appgame.dslist.entities;
+package com.appgame.dslist.model;
 
 import jakarta.persistence.*;
 

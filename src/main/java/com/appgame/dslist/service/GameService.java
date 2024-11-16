@@ -1,4 +1,4 @@
-package com.appgame.dslist.services;
+package com.appgame.dslist.service;
 
 import com.appgame.dslist.dto.GameDTO;
 import com.appgame.dslist.dto.GameMinDTO;

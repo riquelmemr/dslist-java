@@ -1,4 +1,4 @@
-package com.appgame.dslist.exceptions;
+package com.appgame.dslist.exception;
 
 public class EntityNotFoundException extends RuntimeException {
     public EntityNotFoundException(String message) {

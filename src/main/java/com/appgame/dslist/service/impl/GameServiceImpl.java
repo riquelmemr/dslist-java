@@ -1,11 +1,11 @@
-package com.appgame.dslist.services.impl;
+package com.appgame.dslist.service.impl;
 
 import com.appgame.dslist.dto.GameDTO;
 import com.appgame.dslist.dto.GameMinDTO;
-import com.appgame.dslist.entities.Game;
-import com.appgame.dslist.exceptions.EntityNotFoundException;
-import com.appgame.dslist.repositories.GameRepository;
-import com.appgame.dslist.services.GameService;
+import com.appgame.dslist.model.Game;
+import com.appgame.dslist.exception.EntityNotFoundException;
+import com.appgame.dslist.repository.GameRepository;
+import com.appgame.dslist.service.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

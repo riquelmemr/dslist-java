@@ -2,7 +2,7 @@ package com.appgame.dslist.controller;
 
 import com.appgame.dslist.dto.GameDTO;
 import com.appgame.dslist.dto.GameMinDTO;
-import com.appgame.dslist.services.GameService;
+import com.appgame.dslist.service.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
